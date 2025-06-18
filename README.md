@@ -14,4 +14,4 @@
 ```bash
 # Clone with LFS for model files
 git lfs install
-git clone https://github.com/yourusername/Fine-Tuning-DeepSeek-with-Custom-Dataset.git
+git clone https://github.com/varshanj-hub/Fine-Tuning-DeepSeek-with-Custom-Dataset.git
